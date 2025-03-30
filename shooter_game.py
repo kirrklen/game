@@ -1,5 +1,6 @@
 from pygame import *
 from random import randint
+print('privet')
 window = display.set_mode((700,500))
 display.set_caption('стреляние по врагам')
 
